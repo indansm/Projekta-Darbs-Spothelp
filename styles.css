@@ -158,13 +158,14 @@ body {
     margin: auto;
     position: relative;
     justify-content: center;
+    padding-bottom: 30px;
 }
 .Carrousel_images {
     width: 100%;
     width: 1200px;
+    border-radius: 30px;
     
-    
-    padding-bottom: 20px;
+    ;
 }
 @media screen and (max-width: 1300px) {
     .ImageCarrousell{
@@ -220,6 +221,7 @@ body {
     gap: 10px;
   } */
 .footer__main{
+    
     padding-bottom: 20px;
     color:white;
     font-weight: 400;
@@ -236,6 +238,7 @@ body {
     padding-bottom: 40px;
     border-top-left-radius: 30px;
     border-top-right-radius: 30px;
+    
  }
 
  .footer__wrapper {
